@@ -128,7 +128,7 @@ This project helped me practice:
 
 ## 📝 Note
 
-The Streamlit interface is  simple. It was developed primarily for hands-on practice and to understand how to integrate LLMs with a web interface using Streamlit, rather than focusing on advanced UI/UX design.
+The Streamlit interface is  simple. It was developed primarily for hands-on practice and to understand how to integrate LLMs with a web interface using Streamlit.
 
 ---
 
