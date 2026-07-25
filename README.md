@@ -32,7 +32,7 @@ https://jahnvisrivastava01-mistralbot-uichatbot-wcvxhc.streamlit.app/
 - 😂 Funny Mode
 - 😊 Normal Mode
 
-Each mode changes the chatbot's behaviour using different system prompts.
+Users can select the chatbot's personality using Streamlit radio buttons. Each AI mode is powered by a unique system prompt that defines the chatbot's behaviour.
 
 ---
 
