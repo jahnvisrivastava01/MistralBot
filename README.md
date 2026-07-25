@@ -20,7 +20,6 @@ https://jahnvisrivastava01-mistralbot-uichatbot-wcvxhc.streamlit.app/
 
 ### 🌐 Streamlit Chatbot
 - Clean and simple web interface
-- Chat history using Streamlit Session State
 - Real-time conversations
 - Personality selection
 - Built mainly for hands-on practice with Streamlit integration
